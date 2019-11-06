@@ -4,10 +4,10 @@
 >참고 : [ppt](https://github.com/dcsc3500/RTLS/tree/master/ppt) 
 
 
-* 사용언어
-  * Java
-  * Java Swing(For GUI)
-  * Maria DB(DB설정을 다시 해줘야함)
+#### 사용언어
+* Java
+* Java Swing(For GUI)
+* Maria DB(DB설정을 다시 해줘야함)
 
 #### 기능
 1.Monitoring Client
